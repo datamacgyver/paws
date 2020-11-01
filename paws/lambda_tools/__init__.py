@@ -1,1 +1,1 @@
-from paws.lambda_tools import decorators, function_tools, layer_tools
+from paws.lambda_tools import function_tools, layer_tools
